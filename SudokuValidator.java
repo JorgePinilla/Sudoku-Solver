@@ -1,5 +1,3 @@
-package app1;
-
 public class SudokuValidator {
 
 	private SudokuSolver ss;
